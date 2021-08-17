@@ -6,6 +6,8 @@ Un blog increible para el [Curso de Git][01]y github de Platzi
 ##En este curo vemos de todo:
 * Todos los comandos
 * El flujo de trabajo
+* Creado por Platzi
+
 
 **Reame.md es un chiste**
 
