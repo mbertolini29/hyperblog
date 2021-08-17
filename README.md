@@ -8,7 +8,7 @@ Un blog increible para el [Curso de Git][01]y github de Platzi
 * El flujo de trabajo
 * Creado por Platzi
 * Incluye ejemplos en windows y linux
-
+* Disponible para todas las edades
 
 **Reame.md es un chiste**
 
